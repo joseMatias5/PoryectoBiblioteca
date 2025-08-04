@@ -8,6 +8,7 @@ public class Book : EntityBase
     public Category Category { get; set; }
     public int? PublicationYear { get; set; }
     public string? Author { get; set; }
+    public bool? Available { get; set; }
 
     public List<Loan>? Loans { get; set; } = new List<Loan>();
     public Book()
@@ -21,5 +22,6 @@ public class Book : EntityBase
         Category = category;
         PublicationYear = publicationYear;
         Author = author;
+        Available = true;
     }
 }
