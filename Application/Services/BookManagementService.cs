@@ -49,11 +49,11 @@ public class BookManagementService : IBookManagementService
 
         return books.Select(p => new BookModel.ResponseBook(
             p.Id,
-            p.Title,
-            p.ISBN,
+            p.Title!,
+            p.ISBN!,
             p.Category,
             p.PublicationYear,
-            p.Author,
+            p.Author!,
             p.Description
         ));
     }

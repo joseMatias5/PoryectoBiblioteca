@@ -1,4 +1,5 @@
 using Application.Dtos;
+using Application.Interfaces;
 using Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,8 +9,8 @@ namespace Biblioteca.Controllers;
 [Route("api/books")]
 public class BookController : ControllerBase
 {
-    BookManagementService _service;
-    public BookController(BookManagementService service)
+    IBookManagementService _service;
+    public BookController(IBookManagementService service)
     {
         _service = service;
     }

@@ -1,6 +1,11 @@
-
+using Biblioteca.Data;
 using Biblioteca.Data.Repositories;
 using Biblioteca.Domain.Interfaces;
+using Data;
+using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Biblioteca.Data.Helpers;
 
 namespace Biblioteca
 {
@@ -8,18 +13,31 @@ namespace Biblioteca
     {
         public static void Main(string[] args)
         {
-
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            //  Agregamos el DbContext al contenedor de dependencias
+            builder.Services.AddDbContext<BibliotecaContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            //  Inyección de dependencias de tus servicios y repositorios
             builder.Services.AddTransient<Application.Interfaces.IBookManagementService, Application.Services.BookManagementService>();
-            builder.Services.AddScoped<IRepository,EfRepository>();
+            builder.Services.AddScoped<IRepository, EfRepository>();
+
+            builder.Services.AddDbContext<BibliotecaContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("BibliotecaDb"));
+                options.UseSeeding((c, t) =>
+                {
+                    var dataDir = Path.Combine(AppContext.BaseDirectory, "Sources");
+
+                    ((BibliotecaContext)c).Seedwork<Book>(Path.Combine(dataDir, "books.json"));
+                });
+            });
 
             var app = builder.Build();
 
@@ -31,12 +49,8 @@ namespace Biblioteca
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
-
             app.Run();
         }
     }

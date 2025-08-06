@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj": {}
+    "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj": {
+    "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\obj\\",
+        "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\54381\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54381\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj"
+              "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj"
+              "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj"
               }
             }
           }
@@ -67,6 +67,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -76,20 +90,20 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj": {
+    "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
-        "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
+        "packagesPath": "C:\\Users\\54381\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54381\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,11 +118,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj"
+              "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Application\\Application.csproj"
               },
-              "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj"
+              "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj"
               }
             }
           }
@@ -129,6 +143,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -145,6 +165,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -157,20 +195,20 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
+    "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\obj\\",
+        "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\54381\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54381\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -185,8 +223,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj"
+              "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj"
               }
             }
           }
@@ -209,13 +247,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             }
           },
           "imports": [
@@ -229,6 +267,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -238,20 +290,20 @@
         }
       }
     },
-    "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
+    "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA AÑO UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\54381\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54381\\Documents\\Angeles\\DesarrolloSW\\practicaprimerparcial\\ProyectoEjemplo\\PoryectoBiblioteca\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\54381\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -294,6 +346,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
