@@ -1,10 +1,14 @@
 
+using Biblioteca.Data.Repositories;
+using Biblioteca.Domain.Interfaces;
+
 namespace Biblioteca
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -13,6 +17,9 @@ namespace Biblioteca
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddTransient<Application.Interfaces.IBookManagementService, Application.Services.BookManagementService>();
+            builder.Services.AddScoped<IRepository,EfRepository>();
 
             var app = builder.Build();
 

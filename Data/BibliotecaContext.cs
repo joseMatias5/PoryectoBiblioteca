@@ -8,14 +8,14 @@ public class BibliotecaContext : DbContext
     {
     }
 
-    public DbSet<Customer> Customers { get; set; } = null!;
+    //public DbSet<Customer> Customers { get; set; } = null!;
     public DbSet<Book> Books { get; set; } = null!;
-    public DbSet<Loan> Loans { get; set; } = null!;
+   // public DbSet<Loan> Loans { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
-        modelBuilder.Entity<Customer>(c =>
+       /* modelBuilder.Entity<Customer>(c =>
             {
                 c.Property(c => c.Name).HasMaxLength(50).IsRequired();
                 c.Property(c => c.Address).HasMaxLength(100).IsRequired();
@@ -25,7 +25,7 @@ public class BibliotecaContext : DbContext
                     .WithOne(l => l.Customer)
                     .HasForeignKey(l => l.CustomerId);
             }
-        );
+        );*/
 
 
         modelBuilder.Entity<Book>(b =>
@@ -38,7 +38,7 @@ public class BibliotecaContext : DbContext
             b.Property(b => b.Category).IsRequired();
         });
 
-        modelBuilder.Entity<Loan>(l =>
+/*        modelBuilder.Entity<Loan>(l =>
         {
             l.Property(l => l.LoanDate).IsRequired();
             l.Property(l => l.ReturnDate).IsRequired(false);
@@ -46,7 +46,7 @@ public class BibliotecaContext : DbContext
                 .WithMany(b => b.Loans)
                 .HasForeignKey(l => l.BookId)
                 .OnDelete(DeleteBehavior.Cascade);
-        });
+        });*/
     }
 
 }

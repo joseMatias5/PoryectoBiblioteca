@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\biblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|solutionrelative:biblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\application\\services\\bookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|solutionrelative:application\\services\\bookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\biblioteca\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|solutionrelative:biblioteca\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|solutionrelative:data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\data\\helpers\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|solutionrelative:data\\helpers\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|solutionrelative:data\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\biblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|solutionrelative:biblioteca\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\application\\interfaces\\ibookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ibookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\application\\services\\bookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|solutionrelative:application\\services\\bookmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\application\\services\\customermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540FB09D-2B5B-4239-8BF9-87FF11F7A926}|Application\\Application.csproj|solutionrelative:application\\services\\customermanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\biblioteca\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F522BD86-0DD1-4932-8734-C3DA693FC230}|Biblioteca\\Api.csproj|solutionrelative:biblioteca\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1814DC75-78CD-41C6-811B-852E2CA39931}|Data\\Data.csproj|c:\\users\\jose\\onedrive - frt.utn.edu.ar\\facultad\\tercera a\u00F1o utn\\desarrollo de software\\ejercicios\\proyectoejemplo\\poryectobiblioteca\\data\\sources\\loans.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -69,59 +81,97 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 437,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Api",
+              "DocumentIndex": 5,
+              "Title": "IBookManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Interfaces\\IBookManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IBookManagementService.cs",
+              "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Interfaces\\IBookManagementService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IBookManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:56:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Services\\CustomerManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CustomerManagementService.cs",
+              "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Services\\CustomerManagementService.cs",
+              "RelativeToolTip": "Application\\Services\\CustomerManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:53:12.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:51:49.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Api.csproj",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
               "RelativeDocumentMoniker": "Biblioteca\\Api.csproj",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Api.csproj",
               "RelativeToolTip": "Biblioteca\\Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T21:48:32.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:48:32.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Biblioteca\\Controllers\\BookController.cs",
               "RelativeToolTip": "Biblioteca\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T21:48:39.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:48:39.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BookManagementService.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Services\\BookManagementService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\BookManagementService.cs",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Application\\Services\\BookManagementService.cs",
               "RelativeToolTip": "Application\\Services\\BookManagementService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T21:48:11.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T21:48:11.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepository.cs",
@@ -133,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Entities\\EntityBase.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\EntityBase.cs",
@@ -151,26 +201,25 @@
               "RelativeDocumentMoniker": "Data\\Repository\\EFRepository.cs",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Repository\\EFRepository.cs",
               "RelativeToolTip": "Data\\Repository\\EFRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:37:30.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T14:37:30.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "DbContextExtension.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Helpers\\DbContextExtension.cs",
               "RelativeDocumentMoniker": "Data\\Helpers\\DbContextExtension.cs",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Helpers\\DbContextExtension.cs",
               "RelativeToolTip": "Data\\Helpers\\DbContextExtension.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T14:36:49.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Entities\\Loan.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Loan.cs",
@@ -182,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
@@ -194,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "loans.json",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Sources\\loans.json",
               "RelativeDocumentMoniker": "Data\\Sources\\loans.json",
@@ -206,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "customers.json",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Sources\\customers.json",
               "RelativeDocumentMoniker": "Data\\Sources\\customers.json",
@@ -218,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "books.json",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Sources\\books.json",
               "RelativeDocumentMoniker": "Data\\Sources\\books.json",
@@ -230,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
@@ -242,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
@@ -254,19 +303,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BibliotecaContext.cs",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\BibliotecaContext.cs",
               "RelativeDocumentMoniker": "Data\\BibliotecaContext.cs",
               "ToolTip": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\BibliotecaContext.cs",
               "RelativeToolTip": "Data\\BibliotecaContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T14:16:35.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\Jose\\OneDrive - frt.utn.edu.ar\\Facultad\\TERCERA A\u00D1O UTN\\Desarrollo de software\\Ejercicios\\proyectoEjemplo\\PoryectoBiblioteca\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
@@ -275,6 +324,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-01T14:16:08.448Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

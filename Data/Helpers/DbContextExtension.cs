@@ -24,7 +24,7 @@ public static class DbContextExtensions
         context.SaveChanges();
     }
 
-    public static void SeedLoans(this BibliotecaContext context, string jsonPath)
+    /*public static void SeedLoans(this BibliotecaContext context, string jsonPath)
     {
         if (context.Loans.Any()) return;
 
@@ -56,5 +56,5 @@ public static class DbContextExtensions
         }
 
         context.SaveChanges();
-    }
+    }*/
 }

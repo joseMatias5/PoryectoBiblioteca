@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Application.Dtos;
+using Application.Interfaces;
 using Biblioteca.Domain.Interfaces;
 using Domain.Entities;
 using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Application.Services;
 
-public class BookManagementService
+public class BookManagementService : IBookManagementService
 {
     IRepository _repository;
     public BookManagementService(IRepository repository)
@@ -41,7 +42,7 @@ public class BookManagementService
 
     public async Task<IEnumerable<BookModel.ResponseBook>?> GetAllBooks()
     {
-        var books = await _repository.GetFiltered<Book>(p=> p.Available == true);
+        var books = await _repository.GetFiltered<Book>(p => p.Available == true);
 
         if (books == null)
             throw new Exception("Libros no encontrados");

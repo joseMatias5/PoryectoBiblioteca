@@ -1,0 +1,6 @@
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Jose\OneDrive - frt.utn.edu.ar\Facultad\TERCERA AÑO UTN\Desarrollo de software\Ejercicios\proyectoEjemplo\PoryectoBiblioteca\Application\obj\Debug\net8.0\Application.sourcelink.json
